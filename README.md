@@ -22,4 +22,4 @@ run ```analysis.ipynb```
 * Mode Comparison
     * run ```result_static.ipynb```
 * Model Comparison
-    * run ````model_comparison.ipynb```
+    * run ```model_comparison.ipynb```
